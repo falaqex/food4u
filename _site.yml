@@ -1,0 +1,14 @@
+name: "."
+title: "food4u"
+description: 
+  food recipes for u
+output_dir: "docs"
+navbar:
+  right:
+    - text: "food4u"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

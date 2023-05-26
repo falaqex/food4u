@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-05-05T10:53:20+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "food4u",
+      "author": [],
+      "contents": "\n\n          \n          \n          food4u\n          \n          \n          food4u\n          About\n          Home\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              food4u\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            My website gives you delicious recipes which are quick\n            and easy to make while still being healthy and filling. We\n            have a recipe that everyone will enjoy and love, even with\n            only 3 ingredients at home we will always have something for\n            you to enjoy. Times Magazine. 1\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              food4u\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              My website gives you delicious recipes which are quick\n              and easy to make while still being healthy and filling. We\n              have a recipe that everyone will enjoy and love, even with\n              only 3 ingredients at home we will always have something\n              for you to enjoy. Times Magazine. 1\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-05-26T09:27:15+00:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,23 @@
+---
+title: "food4u"
+image: "Images/food1.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Bio
+
+My website gives you delicious recipes which are quick and easy to make while still being healthy and 
+filling. We have a recipe that everyone will enjoy and love, even with only 3 ingredients at home we will always have something for you to enjoy.
+Times Magazine. 1
+
