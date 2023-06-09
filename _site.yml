@@ -1,14 +1,15 @@
 name: "."
 title: "food4u"
-description: 
-  food recipes for u
+description: |
+  Food recipes for u
 output_dir: "docs"
+theme: "my_theme.css"
 navbar:
   right:
     - text: "food4u"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Home"
-      href: index.html
+    - text: "Information"
+      href: Information.html
 output: distill::distill_article
